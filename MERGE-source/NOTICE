@@ -1,0 +1,10 @@
+This package contains the ECDT-R1 model developed in the MERGE workspace.
+It is distinct from the original MERGE GAT baseline.
+
+Original MERGE project:
+https://github.com/ags3927/MERGE
+The original MIT license is included in LICENSE.
+
+The model consumes frozen 1024-dimensional Phikon-v2 image features.
+Phikon-v2 encoder weights and datasets are not distributed in this source package.
+https://huggingface.co/owkin/phikon-v2
